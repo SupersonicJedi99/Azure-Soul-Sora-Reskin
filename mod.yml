@@ -1,0 +1,60 @@
+title: Azure Soul Sora ReSkin
+originalAuthor: SupersonicJedi
+description: "Sora's hair and clothes, including Drive Forms, are given the Merryweather treatment."
+assets:
+- name: remastered/obj/P_EX100.mdlx/-0.dds
+  method: copy
+  source:
+  - name: remastered/obj/P_EX100.mdlx/-0.dds
+- name: remastered/obj/P_EX100.mdlx/-1.dds
+  method: copy
+  source:
+  - name: remastered/obj/P_EX100.mdlx/-1.dds
+- name: remastered/obj/P_EX100_BTLF.mdlx/-0.dds
+  method: copy
+  source:
+  - name: remastered/obj/P_EX100_BTLF.mdlx/-0.dds
+- name: remastered/obj/P_EX100_BTLF.mdlx/-1.dds
+  method: copy
+  source:
+  - name: remastered/obj/P_EX100_BTLF.mdlx/-1.dds
+- name: remastered/obj/P_EX100_HTLF.mdlx/-0.dds
+  method: copy
+  source:
+  - name: remastered/obj/P_EX100_HTLF.mdlx/-0.dds
+- name: remastered/obj/P_EX100_HTLF.mdlx/-1.dds
+  method: copy
+  source:
+  - name: remastered/obj/P_EX100_HTLF.mdlx/-1.dds
+- name: remastered/obj/P_EX100_KH1F.mdlx/-0.dds
+  method: copy
+  source:
+  - name: remastered/obj/P_EX100_KH1F.mdlx/-0.dds
+- name: remastered/obj/P_EX100_KH1F.mdlx/-1.dds
+  method: copy
+  source:
+  - name: remastered/obj/P_EX100_KH1F.mdlx/-1.dds
+- name: remastered/obj/P_EX100_MAGF.mdlx/-0.dds
+  method: copy
+  source:
+  - name: remastered/obj/P_EX100_MAGF.mdlx/-0.dds
+- name: remastered/obj/P_EX100_MAGF.mdlx/-1.dds
+  method: copy
+  source:
+  - name: remastered/obj/P_EX100_MAGF.mdlx/-1.dds
+- name: remastered/obj/P_EX100_TRIF.mdlx/-0.dds
+  method: copy
+  source:
+  - name: remastered/obj/P_EX100_TRIF.mdlx/-0.dds
+- name: remastered/obj/P_EX100_TRIF.mdlx/-1.dds
+  method: copy
+  source:
+  - name: remastered/obj/P_EX100_TRIF.mdlx/-1.dds
+- name: remastered/obj/P_EX100_ULTF.mdlx/-0.dds
+  method: copy
+  source:
+  - name: remastered/obj/P_EX100_ULTF.mdlx/-0.dds
+- name: remastered/obj/P_EX100_ULTF.mdlx/-1.dds
+  method: copy
+  source:
+  - name: remastered/obj/P_EX100_ULTF.mdlx/-1.dds
