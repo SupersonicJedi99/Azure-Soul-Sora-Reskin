@@ -1,6 +1,6 @@
 title: Azure Soul Sora ReSkin
-originalAuthor: SupersonicJedi
-description: "Sora's hair and clothes, including Drive Forms, are given the Merryweather treatment."
+originalAuthor: SupersonicJedi99
+description: "Sora's hair, clothes, and Drive Forms are given a shock of blue."
 assets:
 - name: remastered/obj/P_EX100.mdlx/-0.dds
   method: copy
@@ -10,22 +10,6 @@ assets:
   method: copy
   source:
   - name: remastered/obj/P_EX100.mdlx/-1.dds
-- name: remastered/obj/P_EX100.mdlx/-2.dds
-  method: copy
-  source:
-  - name: remastered/obj/P_EX100.mdlx/-2.dds
-- name: remastered/obj/P_EX100.mdlx/-3.dds
-  method: copy
-  source:
-  - name: remastered/obj/P_EX100.mdlx/-3.dds
-- name: remastered/obj/P_EX100.mdlx/-4.dds
-  method: copy
-  source:
-  - name: remastered/obj/P_EX100.mdlx/-4.dds
-- name: remastered/obj/P_EX100.mdlx/-5.dds
-  method: copy
-  source:
-  - name: remastered/obj/P_EX100.mdlx/-5.dds
 - name: remastered/obj/P_EX100_BTLF.mdlx/-0.dds
   method: copy
   source:
@@ -34,22 +18,6 @@ assets:
   method: copy
   source:
   - name: remastered/obj/P_EX100_BTLF.mdlx/-1.dds
-- name: remastered/obj/P_EX100_BTLF.mdlx/-2.dds
-  method: copy
-  source:
-  - name: remastered/obj/P_EX100_BTLF.mdlx/-2.dds
-- name: remastered/obj/P_EX100_BTLF.mdlx/-3.dds
-  method: copy
-  source:
-  - name: remastered/obj/P_EX100_BTLF.mdlx/-3.dds
-- name: remastered/obj/P_EX100_BTLF.mdlx/-4.dds
-  method: copy
-  source:
-  - name: remastered/obj/P_EX100_BTLF.mdlx/-4.dds
-- name: remastered/obj/P_EX100_BTLF.mdlx/-5.dds
-  method: copy
-  source:
-  - name: remastered/obj/P_EX100_BTLF.mdlx/-5.dds
 - name: remastered/obj/P_EX100_HTLF.mdlx/-0.dds
   method: copy
   source:
@@ -66,22 +34,6 @@ assets:
   method: copy
   source:
   - name: remastered/obj/P_EX100_KH1F.mdlx/-1.dds
-- name: remastered/obj/P_EX100_KH1F.mdlx/-2.dds
-  method: copy
-  source:
-  - name: remastered/obj/P_EX100_KH1F.mdlx/-2.dds
-- name: remastered/obj/P_EX100_KH1F.mdlx/-3.dds
-  method: copy
-  source:
-  - name: remastered/obj/P_EX100_KH1F.mdlx/-3.dds
-- name: remastered/obj/P_EX100_KH1F.mdlx/-4.dds
-  method: copy
-  source:
-  - name: remastered/obj/P_EX100_KH1F.mdlx/-4.dds
-- name: remastered/obj/P_EX100_KH1F.mdlx/-5.dds
-  method: copy
-  source:
-  - name: remastered/obj/P_EX100_KH1F.mdlx/-5.dds
 - name: remastered/obj/P_EX100_MAGF.mdlx/-0.dds
   method: copy
   source:
@@ -90,22 +42,6 @@ assets:
   method: copy
   source:
   - name: remastered/obj/P_EX100_MAGF.mdlx/-1.dds
-- name: remastered/obj/P_EX100_MAGF.mdlx/-2.dds
-  method: copy
-  source:
-  - name: remastered/obj/P_EX100_MAGF.mdlx/-2.dds
-- name: remastered/obj/P_EX100_MAGF.mdlx/-3.dds
-  method: copy
-  source:
-  - name: remastered/obj/P_EX100_MAGF.mdlx/-3.dds
-- name: remastered/obj/P_EX100_MAGF.mdlx/-4.dds
-  method: copy
-  source:
-  - name: remastered/obj/P_EX100_MAGF.mdlx/-4.dds
-- name: remastered/obj/P_EX100_MAGF.mdlx/-5.dds
-  method: copy
-  source:
-  - name: remastered/obj/P_EX100_MAGF.mdlx/-5.dds
 - name: remastered/obj/P_EX100_TRIF.mdlx/-0.dds
   method: copy
   source:
@@ -114,22 +50,6 @@ assets:
   method: copy
   source:
   - name: remastered/obj/P_EX100_TRIF.mdlx/-1.dds
-- name: remastered/obj/P_EX100_TRIF.mdlx/-2.dds
-  method: copy
-  source:
-  - name: remastered/obj/P_EX100_TRIF.mdlx/-2.dds
-- name: remastered/obj/P_EX100_TRIF.mdlx/-3.dds
-  method: copy
-  source:
-  - name: remastered/obj/P_EX100_TRIF.mdlx/-3.dds
-- name: remastered/obj/P_EX100_TRIF.mdlx/-4.dds
-  method: copy
-  source:
-  - name: remastered/obj/P_EX100_TRIF.mdlx/-4.dds
-- name: remastered/obj/P_EX100_TRIF.mdlx/-5.dds
-  method: copy
-  source:
-  - name: remastered/obj/P_EX100_TRIF.mdlx/-5.dds
 - name: remastered/obj/P_EX100_ULTF.mdlx/-0.dds
   method: copy
   source:
@@ -138,19 +58,3 @@ assets:
   method: copy
   source:
   - name: remastered/obj/P_EX100_ULTF.mdlx/-1.dds
-- name: remastered/obj/P_EX100_ULTF.mdlx/-2.dds
-  method: copy
-  source:
-  - name: remastered/obj/P_EX100_ULTF.mdlx/-2.dds
-- name: remastered/obj/P_EX100_ULTF.mdlx/-3.dds
-  method: copy
-  source:
-  - name: remastered/obj/P_EX100_ULTF.mdlx/-3.dds
-- name: remastered/obj/P_EX100_ULTF.mdlx/-4.dds
-  method: copy
-  source:
-  - name: remastered/obj/P_EX100_ULTF.mdlx/-4.dds
-- name: remastered/obj/P_EX100_ULTF.mdlx/-5.dds
-  method: copy
-  source:
-  - name: remastered/obj/P_EX100_ULTF.mdlx/-5.dds
